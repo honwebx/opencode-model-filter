@@ -1,0 +1,16 @@
+{
+  "name": "opencode-model-filter",
+  "version": "0.1.0",
+  "description": "OpenCode V2 插件：按免费/付费、最高单价、最小上下文和黑白名单过滤模型目录。",
+  "license": "MIT",
+  "type": "module",
+  "main": "./index.ts",
+  "exports": "./index.ts",
+  "keywords": ["opencode", "opencode-plugin", "opencode-v2", "model-filter", "llm"],
+  "repository": {
+    "type": "git",
+    "url": "github:honwebx/opencode-model-filter"
+  },
+  "homepage": "https://github.com/honwebx/opencode-model-filter#readme",
+  "bugs": "https://github.com/honwebx/opencode-model-filter/issues"
+}
