@@ -1,7 +1,7 @@
 {
   "name": "opencode-model-filter",
   "version": "0.1.0",
-  "description": "OpenCode V2 插件：按免费/付费、最高单价、最小上下文和黑白名单过滤模型目录。",
+  "description": "OpenCode 模型过滤插件：按免费/付费、最高单价、最小上下文和黑白名单过滤 OpenCode 内置大模型。",
   "license": "MIT",
   "type": "module",
   "main": "./index.ts",
